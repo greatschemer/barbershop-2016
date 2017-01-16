@@ -1,1 +1,1 @@
-# barbershop-2016
+# адаптивность barbershop-2016
